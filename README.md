@@ -6,4 +6,4 @@
 2. Simulate distribution under the null hypothesis
 3. Plot observed statistic with the null distibution and calculate p-value
 
-Please see the [notebook](https://github.com/Chilliwack/boot_sample_dist) for further details: https://github.com/Chilliwack/boot_sample_dist.ipynb
+Please see the [notebook](https://github.com/Chilliwack/boot_sample_dist/blob/master/boot_sample_dist.ipynb) for further details: https://github.com/Chilliwack/boot_sample_dist/blob/master/boot_sample_dist.ipynb
