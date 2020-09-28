@@ -1,6 +1,6 @@
 # boot_sample_dist
 
-**boot_sample_dist** is an example of how to:
+**boot_sample_dist** is an example using A/B testing website data of how to:
 
 1. Create a sampling distribution of the difference in proportions
 2. Simulate distribution under the null hypothesis
